@@ -12,7 +12,6 @@ public class HelloWorld {
         else{
             System.out.println("turn right");
         }
-        
         int b = Integer. parseInt(x.nextLine());
         if(b>0){
             System.out.println(">0");
@@ -28,5 +27,5 @@ public class HelloWorld {
             System.out.println(k);
             k++;
         }
-        }
+    }
 }
